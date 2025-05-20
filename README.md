@@ -68,9 +68,9 @@ Each section includes learning objectives, resources, and a **mandatory task/pro
 
 ### 📚 Resources
 - [Intro to Global State](https://www.youtube.com/watch?v=_ngCLZ5Iz-0)
-- [React Context](https://www.youtube.com/watch?v=6tEQ1nJZ51w)
-- [State Management Patterns](https://www.youtube.com/watch?v=QTZTUrAbjeo)
-- [Zustand Demo](https://www.youtube.com/watch?v=qqqyUTTS-9g)
+- [Zustand Best Practices](https://www.youtube.com/watch?v=6tEQ1nJZ51w)
+- [Zustand with React query](https://www.youtube.com/watch?v=QTZTUrAbjeo)
+- [State Mangament Comparisons](https://www.youtube.com/watch?v=qqqyUTTS-9g)
 
 ### ✅ Task
 - Create a **Multi-Step Form** that uses global state to store user inputs between steps.
@@ -86,8 +86,8 @@ Each section includes learning objectives, resources, and a **mandatory task/pro
 
 ### 📚 Resources
 - [Authentication Flow](https://www.youtube.com/watch?v=AcYF18oGn6Y)
-- [Protected Routes](https://www.youtube.com/watch?v=-IqMxPU3vbU)
-- [JWT Auth](https://www.youtube.com/watch?v=pyfwQUc5Ssk)
+- [Role Based](https://www.youtube.com/watch?v=-IqMxPU3vbU)
+- [Protected Routes](https://www.youtube.com/watch?v=pyfwQUc5Ssk)
 
 ### ✅ Task
 - Build a **User Dashboard** with Login/Register and protected routes based on user role/status.
@@ -123,6 +123,19 @@ Build an educational course management platform with the following features:
 - Authentication and route protection
 - Clean, reusable codebase with clear folder structure
 
-> Remember: **Always research before coding**. Check if there's a library that can help you solve a problem efficiently. Clean code and smart problem-solving are more important than just getting it done.
+> Remember: ** Always research before coding **. Check if there's a library that can help you solve a problem efficiently. Clean code and smart problem-solving are more important than just getting it done.
+
+---
+
+## 🔍 Useful Fake APIs for Practice
+
+Use these resources for testing API requests and authentication flows during your project development:
+
+- [JSONPlaceholder](https://jsonplaceholder.typicode.com) — fake REST API for testing
+- [Reqres](https://reqres.in) — fake API for user authentication and CRUD
+- [Fake Store API](https://fakestoreapi.com) — fake e-commerce API
+- [DummyJSON](https://dummyjson.com) — more flexible fake data API
+- [MockAPI](https://mockapi.io) — create custom endpoints for practice
 
 Good luck! 🚀
+
