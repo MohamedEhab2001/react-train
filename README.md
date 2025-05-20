@@ -20,7 +20,7 @@ Each section includes learning objectives, resources, and a **mandatory task/pro
 - [Full Guide](https://www.youtube.com/watch?v=UBOj6rqRUME)
 
 ### ✅ Task
-- Build a fully responsive **To-Do List** app using Tailwind CSS and Flex/Grid for layout.
+- Build a fully responsive [Website](https://www.youtube.com/watch?v=ZU-drSVodBw)
 
 ---
 
