@@ -90,7 +90,7 @@ Each section includes learning objectives, resources, and a **mandatory task/pro
 - [Protected Routes](https://www.youtube.com/watch?v=pyfwQUc5Ssk)
 
 ### ✅ Task
-- Build a **User Dashboard** with Login/Register and protected routes based on user role/status.
+- Build a **Basic E-commerce** with Login/Register and protected routes based on user role/status.
 
 ---
 
@@ -136,6 +136,7 @@ Use these resources for testing API requests and authentication flows during you
 - [Fake Store API](https://fakestoreapi.com) — fake e-commerce API
 - [DummyJSON](https://dummyjson.com) — more flexible fake data API
 - [MockAPI](https://mockapi.io) — create custom endpoints for practice
+- [RapidApi](https://rapidapi.com/hub) - Every types of API
 
 Good luck! 🚀
 
