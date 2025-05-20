@@ -52,7 +52,7 @@ Each section includes learning objectives, resources, and a **mandatory task/pro
 
 ### 📚 Resources
 - [API Basics](https://www.youtube.com/watch?v=lsMQRaeKNDk)
-- [React + Axios](https://www.youtube.com/watch?v=VtWkSCZX0Ec&list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2)
+- [React Query](https://www.youtube.com/watch?v=VtWkSCZX0Ec&list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2)
 - [Project Example](https://www.youtube.com/watch?v=BCp_5PoKrvI)
 
 ### ✅ Task
