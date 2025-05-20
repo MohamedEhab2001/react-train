@@ -34,8 +34,8 @@ Each section includes learning objectives, resources, and a **mandatory task/pro
 ### 📚 Resources
 - [Clean Code](https://www.youtube.com/watch?v=MdvzlDIdQ0o)
 - [Best Practices](https://www.youtube.com/watch?v=5r25Y9Vg2P4)
-- [Component Design](https://www.youtube.com/watch?v=UUga4-z7b6s)
-- [Folder Structure](https://www.youtube.com/watch?v=6ThXsUwLWvc)
+- [Folder Structre](https://www.youtube.com/watch?v=UUga4-z7b6s)
+- [Custom Hooks](https://www.youtube.com/watch?v=6ThXsUwLWvc)
 - [Common Mistake](https://youtube.com/shorts/Rw_4Oo03sV4?si=wS9yhsj-exKUY23q)
 
 ### ✅ Task
